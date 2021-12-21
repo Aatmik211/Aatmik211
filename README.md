@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Aatmik211
-- 👀 I’m interested in ... Web development
-- 🌱 I’m currently learning ... HTML, CSS, JavaScript, Swift, Python, C, Golang, Java
-- 💞️ I’m looking to collaborate on ... Apple
+- 👀 I’m interested in ... OpenGL, Metal API, Manim
+- 🌱 I’m currently learning ... Python, C
+- 💞️ I’m looking to collaborate on ... Manim, Apple
 - 📫 How to reach me ... dutta.aatmik@gmail.com
 
 <!---
